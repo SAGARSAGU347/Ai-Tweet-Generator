@@ -44,7 +44,7 @@ export default function Home() {
       <div className="bg-white shadow-2xl rounded-2xl p-6 sm:p-8 space-y-4 sm:space-y-6 w-full max-w-md transform transition-all duration-300 hover:scale-105">
         <div className="text-center space-y-2">
           <h1 className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 text-transparent bg-clip-text">
-           Sagar's Tweet Generator
+           Sagar&apos;s Tweet Generator
           </h1>
           <p className="text-sm sm:text-base text-gray-500">Create viral tweets in seconds by Sagar
             <br/>Enjoy
