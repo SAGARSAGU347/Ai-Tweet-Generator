@@ -62,7 +62,7 @@ export default function Home() {
               value={topic}
               onChange={(e) => setTopic(e.target.value)}
               className="border-2 border-gray-200 rounded-xl py-2 sm:py-3 px-4 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-200 transition-all duration-300 text-base sm:text-lg text-gray-900"
-              placeholder="What's the tweet about?"
+              placeholder="What&apos;s the tweet about?"
             />
           </div>
 
